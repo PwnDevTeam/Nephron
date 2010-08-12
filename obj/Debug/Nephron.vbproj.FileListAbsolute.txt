@@ -1,0 +1,23 @@
+C:\Users\Thim\AppData\Local\Temporary Projects\Nephron\bin\Debug\Nephron.exe
+C:\Users\Thim\AppData\Local\Temporary Projects\Nephron\bin\Debug\Nephron.pdb
+C:\Users\Thim\AppData\Local\Temporary Projects\Nephron\bin\Debug\Nephron.xml
+C:\Users\Thim\AppData\Local\Temporary Projects\Nephron\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Thim\AppData\Local\Temporary Projects\Nephron\obj\Debug\Nephron.Form1.resources
+C:\Users\Thim\AppData\Local\Temporary Projects\Nephron\obj\Debug\Nephron.Resources.resources
+C:\Users\Thim\AppData\Local\Temporary Projects\Nephron\obj\Debug\Nephron.vbproj.GenerateResource.Cache
+C:\Users\Thim\AppData\Local\Temporary Projects\Nephron\obj\Debug\Nephron.exe
+C:\Users\Thim\AppData\Local\Temporary Projects\Nephron\obj\Debug\Nephron.xml
+C:\Users\Thim\AppData\Local\Temporary Projects\Nephron\obj\Debug\Nephron.pdb
+C:\Users\Thim\AppData\Local\Temporary Projects\Nephron\bin\Debug\LibUsbDotNet.dll
+C:\Users\Thim\AppData\Local\Temporary Projects\Nephron\bin\Debug\LibUsbDotNet.xml
+C:\Users\Thim\Desktop\Nephron\Nephron\bin\Debug\Nephron.exe
+C:\Users\Thim\Desktop\Nephron\Nephron\bin\Debug\Nephron.pdb
+C:\Users\Thim\Desktop\Nephron\Nephron\bin\Debug\Nephron.xml
+C:\Users\Thim\Desktop\Nephron\Nephron\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Thim\Desktop\Nephron\Nephron\obj\Debug\Nephron.Resources.resources
+C:\Users\Thim\Desktop\Nephron\Nephron\obj\Debug\Nephron.vbproj.GenerateResource.Cache
+C:\Users\Thim\Desktop\Nephron\Nephron\obj\Debug\Nephron.exe
+C:\Users\Thim\Desktop\Nephron\Nephron\obj\Debug\Nephron.xml
+C:\Users\Thim\Desktop\Nephron\Nephron\obj\Debug\Nephron.pdb
+C:\Users\Thim\Desktop\Nephron\Nephron\obj\Debug\Nephron.iNephron.resources
+C:\Users\Thim\Desktop\Nephron\Nephron\obj\Debug\Nephron.frmAbout.resources

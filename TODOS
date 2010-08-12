@@ -1,0 +1,23 @@
+
+TODOS for Nephron.
+
+*	Since i do have MobileDevice for Visual Basic
+	One thing that would be awesome is if we could
+	implement function to upload payloads and files
+	If that's done there's no need for having iRecovery
+	with Nephron.
+
+*   Changing img3 containers to maybe Nephron's icon?
+    Or even adding iH8sn0w's logo, fallensn0w's and 
+	GreySyntax's logo together? That would be cool..
+	
+*   Find a better way to verify selected .ipsws.
+    Currently it will just search InStr for tags like
+	iPod, iPhone 3G, 3GS, 2G, 2, 3 and so on.
+	Check the code for more.
+
+*   Shrink everything together? Like adding iboot.patch
+    Inside the Nephron.EXE so it will extract to temporary
+	And delete it after it's done? Feels kind of useless to
+	have folders for each iPod & iPhone.
+	
